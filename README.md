@@ -7,7 +7,7 @@ https://github.com/Capoomaru/std_spring<br>
 ### Done<br>
 **- Raspberry Pi 4 Device Driver<br>**
 https://github.com/Capoomaru/rasp_elevator<br>
-### Temporary suspension of development<br>
+### Temporary suspension<br>
 
 **- Android<br>**
 https://github.com/Capoomaru/BatMan<br>
