@@ -15,9 +15,10 @@ https://github.com/yh-project/Froject-FB<br>
 
 
 
-
+<!--
 <br><br><br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Capoomaru&layout=compact)](https://github.com/Capoomaru/github-readme-stats)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Capoomaru&show_icons=true&theme=radical)
+-->
 
 <!--
 **Capoomaru/Capoomaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
