@@ -1,6 +1,6 @@
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancyar8515@ynu.ac.kr&langs_count=8)](https://github.com/anycar8515@ynu.ac.kr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anycar8515@ynu.ac.kr&langs_count=8)](https://github.com/anycar8515@ynu.ac.kr/github-readme-stats)
 
 ### Hi there 👋
 
