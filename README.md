@@ -1,7 +1,7 @@
 ## 🌱 I’m currently learning&develpoing ...
 **- Spring boot/Java<br>**
 https://github.com/Capoomaru/std_spring<br>
-[https://github.com/YU-Stock](https://github.com/YU-Stock/downbit-be) (private)
+[https://github.com/YU-Stock](https://github.com/YU-Stock/downbit-be) (team project)
 
 ## <br> 🔭 My project<br>
 ### Done<br>
