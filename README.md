@@ -1,7 +1,7 @@
 ## 🌱 I’m currently learning&develpoing ...
 **- Spring boot/Java<br>**
 https://github.com/Capoomaru/std_spring<br>
-[https://github.com/YU-Stock](https://github.com/YU-Stock/downbit-be) (team project)
+
 
 ## <br> 🔭 My project<br>
 ### Done<br>
@@ -9,6 +9,9 @@ https://github.com/Capoomaru/std_spring<br>
 https://github.com/Capoomaru/rasp_elevator<br>
 **- Web<br>**
 https://github.com/yh-project/RabLab.git (private)<br>
+**- Spring boot/Java<br>**
+[https://github.com/YU-Stock](https://github.com/YU-Stock/downbit-be) (team project)
+
 
 ### Temporary suspension<br>
 
