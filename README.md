@@ -27,7 +27,7 @@ Froject는 각자 전공의 재능을 대학생끼리 공유할 수 있도록 �
 ### bootcampalarm : https://github.com/Capoomaru/bootcampalarm
 
 원하는 부트캠프를 구독하여 다음 기수 모집 메일을 통한 알림 기능을 제공하는 사이드 프로젝트입니다. \
-친구와 2인으로 제작하여 약 2주간 진행하였고 배포 전 다양한 사항을 검토하고 있습니다. \
+친구와 2인으로 제작하여 약 2주간 진행하였고 배포 전 다양한 사항을 검토하고 있습니다.
 
 ### FrojectBE : https://github.com/Capoomaru/FrojectBE
 
